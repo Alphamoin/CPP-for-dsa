@@ -1,2 +1,2 @@
-# C-for-dsa
+# CPP-for-dsa
 C++ one shot
