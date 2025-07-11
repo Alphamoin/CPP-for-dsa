@@ -1,5 +1,5 @@
 #include<iostream>
-#include<bits/stdc++.h> // iske andar sab lib install hoti hai , sirf ye #unclude likha toh bhi chalega.
+#include<bits/stdc++.h> // iske andar sab lib install hoti hai , sirf ye #include likha toh bhi chalega.
 using namespace std; //baar-baar std likhne ki jarurat nai hai function me;
 
  int main(){
