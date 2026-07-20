@@ -3,7 +3,7 @@
 using namespace std; //baar-baar std likhne ki jarurat nai hai function me;
 
  int main(){
- cout<< "Moin Shaikh"<<endl << "Miya bhai"<< endl; // endl matlab new line se shuruwat hogi 
+ cout<< "Moin Shaikh"<<endl << "bhai"<< endl; // endl matlab new line se shuruwat hogi 
 // // matlab har ek word ya sentence new line se likhna start hoga 
  return 0;
  }
